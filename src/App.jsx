@@ -8,7 +8,7 @@ function App() {
           <div class="cs-image">
             <picture class="cs-picture">
               <img
-                src=""
+                src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/People/business-meeting-women.jpeg"
                 alt="busines meeting"
                 width="522"
                 height="609"
@@ -36,7 +36,7 @@ function App() {
                     <span class="cs-time">
                       <img
                         class="cs-icon"
-                        src=""
+                        src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Icons/gold-clock.svg"
                         width="24"
                         height="24"
                         aria-hidden="true"
@@ -65,7 +65,7 @@ function App() {
                     <span class="cs-time">
                       <img
                         class="cs-icon"
-                        src=""
+                        src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Icons/gold-clock.svg"
                         width="24"
                         height="24"
                         aria-hidden="true"
